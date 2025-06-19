@@ -18,6 +18,7 @@
 |--------|-------------|------------|
 | [Sinhala Sign Language Learning Aid](https://github.com/janithcbk123/sign-language-recognition)| Interactive tool to learn Sinhala sign gestures via ML and Streamlit. | Python, MediaPipe, Streamlit |
 | [Automated Greenhouse](https://github.com/janithcbk123/Automated-Greenhouse) | Raspberry Pi‑based IoT greenhouse with Firebase & Android control. | Python, Firebase, Raspberry Pi, KiCAD, Kodular |
+| [Water Tank Control](https://github.com/janithcbk123/ESP32_Water_Tank_Control) | ESP32‑based IoT watertank control system with MQTT & Android control. | C++, MQTT, ESP32, HiveMQ, Kodular |
 | [Handwritten Character Recognition](https://github.com/janithcbk123/Handwritten-Character-Recognition-Using-Image-Processing) | Deep learning model to recognize handwritten characters offline. | Python, Deep Learning, CNN |
 | [IoT Beverage Can Monitoring](https://github.com/janithcbk123/IoT-Based-Beverage-Can-Monitoring-System) | Monitors temperature & stock of cans via MQTT and MicroPython. | MicroPython, ESP32, MQTT, IoT |
 | [Equipment Renting System](https://github.com/janithcbk123/Equipment-Renting) | Full-stack web app for managing equipment inventory and billing. | PHP, MySQL, JavaScript, CSS |
